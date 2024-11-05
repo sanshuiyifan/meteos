@@ -1,0 +1,4 @@
+repository "meteos@tj_3467402995_qq_com@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
